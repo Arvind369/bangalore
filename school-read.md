@@ -1,1 +1,1 @@
-This is for the school repository
+While I was searching for information on the schools for my daughter's admission, I hit the Bangaloreopensource website. I thought it would be good to do some analysis and project the school location on Bangalore map. 
