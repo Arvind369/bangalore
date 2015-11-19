@@ -1,6 +1,6 @@
 # Read the schools.csv file. The 121st line had a problem and I had delete the record manually 
 # before loading
-schools <- read.csv("C:/Arvind/Bangalore/shools.csv")
+schools <- read.csv("C:/Arvind/Bangalore/schools.csv")
 # Structure of the dataframe and covert all the strings to characters as R loads the character string
 # attributes as factor
 str(schools)
